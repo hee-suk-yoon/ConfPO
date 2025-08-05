@@ -31,4 +31,10 @@ bash commands/run_simpo.sh
 cd trl-main
 bash commands/run_confpo.sh
 ```
+## Acknowledgement
+This work was supported by Artificial intelligence industrial convergence cluster development project funded by the Ministry of Science and ICT(MSIT, Korea)\&Gwangju Metropolitan City, Institute for Information \& communications Technology Planning \& Evaluation (IITP) grant funded by the Korea government(MSIT) (No.RS-2021-II211381, Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments), and Institute of Information \& communications Technology Planning \& Evaluation (IITP) grant funded by the Korea government(MSIT) (No.RS-2022-II220184, Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics).
 
+Also, we thank the authors of the [SimPO](https://github.com/princeton-nlp/SimPO) for their open-source contributions.
+
+## Contact
+If you have any questions, please feel free to email hskyoon@kaist.ac.kr
