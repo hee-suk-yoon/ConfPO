@@ -36,5 +36,15 @@ This work was supported by Artificial intelligence industrial convergence cluste
 
 Also, we thank the authors of the [SimPO](https://github.com/princeton-nlp/SimPO) for their open-source contributions.
 
+## Citation
+If you find our work useful in your research, please cite:
+```
+@inproceedings{yoonconfpo,
+  title={ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization},
+  author={Yoon, Hee Suk and Yoon, Eunseop and Hasegawa-Johnson, Mark A and Kim, Sungwoong and Yoo, Chang D},
+  booktitle={Forty-second International Conference on Machine Learning}
+}
+```
+
 ## Contact
 If you have any questions, please feel free to email hskyoon@kaist.ac.kr
