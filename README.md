@@ -4,6 +4,8 @@ This repository provides the official implementation of our ICML 2025 paper:
 > ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization    
 > Authors: Hee Suk Yoon, Eunseop Yoon, Mark Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
 
+[[Paper Link](https://openreview.net/forum?id=ZG7bkp6ScT&noteId=DwUktJSBiU)]
+
 ![](ConfPO.png)
 
 ## Installation
