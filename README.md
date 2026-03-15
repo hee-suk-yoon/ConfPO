@@ -41,10 +41,13 @@ Also, we thank the authors of the [SimPO](https://github.com/princeton-nlp/SimPO
 ## Citation
 If you find our work useful in your research, please cite:
 ```
-@inproceedings{yoonconfpo,
-  title={ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization},
-  author={Yoon, Hee Suk and Yoon, Eunseop and Hasegawa-Johnson, Mark A and Kim, Sungwoong and Yoo, Chang D},
-  booktitle={Forty-second International Conference on Machine Learning}
+@inproceedings{
+yoon2025confpo,
+title={Conf{PO}: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization},
+author={Hee Suk Yoon and Eunseop Yoon and Mark A. Hasegawa-Johnson and Sungwoong Kim and Chang D. Yoo},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=ZG7bkp6ScT}
 }
 ```
 
